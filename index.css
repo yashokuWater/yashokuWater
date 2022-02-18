@@ -1,9 +1,10 @@
 body {
 	margin: 0;
-	background-color: #fff;
+	background-image: url("bg.jpg");
 	font-size: 16px;
 	text-align: center;
 }
+
 
 #header{
 	margin-top: 10px;
@@ -12,14 +13,18 @@ body {
 
 #main{
 	width:70%;
-	background-color:　rgba(255,165,0, 0.5);
-	margin-top: 100px;
+	margin-top: 10px;
 	margin-bottom: 10px;
 	margin-left: auto ;
 	margin-right: auto ;
-　  border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
-    border-bottom-left-radius: 43px;
-
 }
+
+#mainmain{
+	    border-radius:14px;
+		background-image: url("bg.png");
+		margin-top: 10px;
+		background-color:　#99cc00;
+		text-align: left;
+		-ms-filter: blur(6px);
+  　　　filter: blur(6px);
 }
