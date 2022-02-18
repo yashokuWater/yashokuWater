@@ -1,12 +1,18 @@
+@font-face{
+	font-family: 'MyFont';
+	src: url(Corporate-Logo-Rounded.ttf);
+}
+
 body {
 	margin: 0;
-	background-image: url("bg.jpg");
+	background-image: url("bg2.png");
 	font-size: 16px;
 	text-align: center;
 }
 
 
 #header{
+	font-family: 'MyFont';
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
@@ -20,8 +26,8 @@ body {
 }
 
 #mainmain{
+	    background-color: rgba(203,255,245,0.7);
 	    border-radius:14px;
-		background-image: url("denim_fabric_diff_1k");
 		margin-top: 10px;
 		background-color:　#99cc00;
 		text-align: left;
