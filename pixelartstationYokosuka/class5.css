@@ -1,0 +1,142 @@
+body{
+margin:0;
+background:url(image/background01.png);
+}
+
+#top{
+margin:90px;
+font-size:400%;
+float:top;
+height:180px;
+width:1000px;
+text-align:center;
+background-color:#A2FFF5;
+background:url(image/New_header.gif);
+}
+
+#menu{
+
+float:top;
+margin:0;
+padding:90;
+list-style-type:none;
+ height:80px;
+ width:;1000px
+}
+
+#menu li{
+float:left;
+text-align:center;
+}
+
+#menu li.one a{
+ height:80px;
+ width:200px;
+ text-decoration:none;
+ display:block;
+ font-size:300%;
+ height:80px;
+ background:black;
+
+ }
+
+#menu li.one a:hover{
+background:url(image/menu/menu1.png);
+background-color:#8D353B;
+text-indent:-99999px;
+}
+
+#menu li.two a{
+ height:80px;
+ width:200px;
+ text-decoration:none;
+ display:block;
+ font-size:300%;
+ height:80px;
+ background:black;
+
+ }
+
+ #menu li.two a:hover{
+ text-indent:-99999px;
+ background:url(image/menu/menu2.png);
+background-color:#8D353B;
+}
+
+#menu li.three a{
+ height:80px;
+ width:200px;
+ text-decoration:none;
+ display:block;
+ font-size:300%;
+ height:80px;
+ background:black;
+
+ }
+
+#menu li.three a:hover{
+text-indent:-99999px;
+background-color:#8D353B;
+ background:url(image/menu/menu3.png);
+}
+
+#menu li.four a{
+ height:80px;
+ width:200px;
+ text-decoration:none;
+ display:block;
+ font-size:300%;
+ height:80px;
+ background:black;
+ }
+
+#menu li.four a:hover{
+text-indent:-99999px;
+background:url(image/menu/menu4.png);
+background-color:#8D353B;
+}
+
+#menu li.five a{
+ height:80px;
+ width:200px;
+ text-decoration:none;
+ display:block;
+ font-size:300%;
+ height:80px;
+ background:black;
+ }
+
+#menu li.five a:hover{
+text-indent:-99999px;
+ background:url(image/menu/menu5.png);
+background-color:#8D353B;
+}
+
+#middle{
+padding:90;
+float:middle;
+width:1000px;
+height:900px;
+}
+
+#right{
+width:800px;
+height:900px;
+float:right;
+background-color:blue;
+}
+
+#left{
+width:200px;
+height:900px;
+float:left;
+background-color:yellow;
+}
+
+#bottom{
+margin:0;
+height:180px;
+width:1000px;
+float:bottom;
+background-color:white;
+}
