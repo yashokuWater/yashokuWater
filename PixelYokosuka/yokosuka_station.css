@@ -1,0 +1,256 @@
+body{
+color:#586335;
+background:url(image/background01-2.png);
+}
+
+a{
+color:#81ba28;
+text-decoration:none;
+}
+
+#menu2 a{
+color:#ffffff;
+text-decoration:none;
+}
+
+#top{
+margin:45px auto;
+float:top;
+height:70px;
+width:1000px;
+background-color:#A2FFF5;
+background:url(image/New_header.gif);
+}
+
+#menu{
+width:1800px;
+height:80px;
+list-style-type:none;
+text-align: center;
+}
+
+#menu li{
+float:left;
+text-align:center;
+}
+
+#menu li.one a{
+background:url(image/menu/menu_botan_HOME1.png);
+ height:80px;
+ width:200px;
+ text-decoration:none;
+ display:block;
+ font-size:300%;
+ height:80px;
+}
+
+#menu li.one a:hover{
+background:url(image/menu/menu_botan_HOME2.png);
+text-indent:-99999px;
+}
+
+#menu li.two a{
+background:url(image/menu/menu_botan_START1.png);
+ height:80px;
+ width:200px;
+ text-decoration:none;
+ display:block;
+ font-size:300%;
+ height:80px;
+ }
+
+ #menu li.two a:hover{
+ text-indent:-99999px;
+background:url(image/menu/menu_botan_START2.png);
+}
+
+#menu li.three a{
+background:url(image/menu/menu_botan_FOOD1.png);
+ height:80px;
+ width:200px;
+ text-decoration:none;
+ display:block;
+ font-size:300%;
+ height:80px;
+ 
+}
+
+#menu li.three a:hover{
+text-indent:-99999px;
+background-color:#8D353B;
+background:url(image/menu/menu_botan_FOOD2.png);
+}
+
+#menu li.four a{
+ height:80px;
+ width:200px;
+ text-decoration:none;
+ display:block;
+ font-size:300%;
+ height:80px;
+background:url(image/menu/menu_botan_SHOP1.png);
+ }
+
+#menu li.four a:hover{
+text-indent:-99999px;
+background:url(image/menu/menu_botan_SHOP2.png);
+}
+
+#menu li.five a{
+ height:80px;
+ width:200px;
+ text-decoration:none;
+ display:block;
+ font-size:300%;
+ height:80px;
+background:url(image/menu/menu_botan_PARK1.png);
+ }
+
+#menu li.five a:hover{
+text-indent:-99999px;
+background:url(image/menu/menu_botan_PARK2.png);
+}
+
+#menu_Box{
+float:top;
+height:80px;
+width:auto;
+background-color:#630501;
+}
+
+#middle{
+margin-top: 0;
+margin-bottom: 0;
+margin-left: auto;
+margin-right: auto;
+float:middle;
+width:1050px;
+min-height:1400px;
+}
+
+#right{
+margin:0;
+width:900px;
+min-height:1000px;
+float:right;
+background-color:#b7b5ae;
+}
+
+#right h1{
+border-color:#81ba28;
+}
+
+strong{
+	color: #63c446
+}
+
+p{
+padding:10px;
+}
+
+.self-box_K {
+width: 700px;
+margin: 10px auto;
+}
+.self-box_K img{
+float: left;
+width: 140px;
+height: 140px;
+border: solid 10px;
+border-color: #000000;
+}
+.text_K{
+width: 700px;
+height: 160px;
+background-color: #000000;
+color: #ffffff;
+}
+
+
+.self-box_Y {
+width: 700px;
+margin: 10px auto;
+}
+.self-box_Y img {
+border: solid 10px;
+border-color:#000000;
+float: right;
+width:140px;
+height:140px;
+}
+.self-box_Y .text_Y {
+border: solid 10px:
+border-color;#000000:
+width: 700px;
+height: 160px;
+background: #000000;
+color: #ffffff;
+}
+
+.pixel_picture{
+width:700px;
+height:400px;
+margin:20 auto;
+display:block;
+background-color:#000000;
+}
+
+.pixel_picture img{
+width:700px; 
+height:400px;
+margin:auto;
+display:block;
+border:solid 10px;
+border-color:#000000;
+box-sizing:border-box;
+}
+
+
+#left{
+font-size:30px;
+color:#81ba28;
+width:150px;
+height:700px;
+float:left;
+background-color:#00262d;
+}
+
+#left {
+font-size:30px;
+}
+
+#bottom{
+background:url("image/bottom_2.png");
+margin:40 0 auto;
+height:180px;
+width:950px;
+float:bottom;
+}
+
+#menu2{
+list-style:circle;
+padding-left:170px;
+width:1500px;
+background-color:#696969;
+margin:0;
+}
+
+#menu2 li{
+padding:75px 60px 0px 0px; 
+float:left;
+text-align:center;
+}
+
+#menu2 li .HOME{
+padding-left:1000px;
+padding-right:0px;
+}
+
+#menu2 li .PARK{
+padding-right:50px;
+padding-left:0px;
+}
+
+#sankou {
+	color: #000000
+}
